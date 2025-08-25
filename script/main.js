@@ -9,7 +9,7 @@ window.addEventListener('load', () => {
     confirmButtonColor: '#3085d6',
     allowOutsideClick: false, // prevent closing by clicking outside
   }).then((result) => {
-    if (result.value === '261005') { // <-- your passcode here
+    if (result.value === 'nitakoyakicantik') { // <-- your passcode here
       // After correct passcode, show music confirmation
       Swal.fire({
         title: 'Mau puter lagunya? (yes pls hehe)',
