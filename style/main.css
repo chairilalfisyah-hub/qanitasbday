@@ -48,7 +48,7 @@ body {
   padding: 10px;
   position: center;
   width: 1000px;
-  height: 280px;
+  height: 305px;
 }
 
 .text-box p {
@@ -195,7 +195,7 @@ body {
 }
 
 .wish-hbd {
-  font-size: 3rem;
+  font-size: 2rem;
   margin: 0;
   letter-spacing: 2px;
   word-spacing: 10px;
@@ -203,7 +203,7 @@ body {
 }
 
 .wish h5 {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: lighter;
   margin: 10px 0 0;
 }
@@ -271,13 +271,13 @@ body {
   }
 
   .wish-hbd {
-    font-size: 2.2rem;
+    font-size: 2rem;
     letter-spacing: 2px;
     word-spacing: 10px;
   }
 
   .wish h5 {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .nine p {
